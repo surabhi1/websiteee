@@ -89,6 +89,14 @@
     <asp:Label ID="Label1" runat="server" Text="Label1"></asp:Label>
    
     <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <asp:DropDownList ID="DropDownList1" runat="server">
+    </asp:DropDownList>
+   
+    <br />
    
   </form>
 </body>
